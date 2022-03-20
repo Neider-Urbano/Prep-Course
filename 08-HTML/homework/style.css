@@ -1,0 +1,28 @@
+body{
+    background-image: url("https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/field/image/paisaje-ocaso-atardecer-mochilero-viaje-viajero-ilustracion-wallpaper-fondo-pantalla-senal-colombia-elver-mora-1920x1080.jpg");
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+h1{
+    color: indigo;
+}
+#thirdDiv{
+    height:600px;
+    width:500px;
+    background: gray;
+    padding:50px;
+    border: 2px solid #000;
+}
+img{
+    width:400px;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+.divClass{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
